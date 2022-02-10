@@ -1,7 +1,7 @@
 ### Hola! Yo soy Agnibha Sarkar! 👋
 
-- 🔭 I’m currently working on Fakestagram!
-- 🌱 I’m currently learning Flutter, Machine Learning and Spanish!
+- 🔭 I’m currently working on Wordle 2.0!
+- 🌱 I’m currently learning Blockchains, Flutter, Machine Learning and Spanish!
 - 👯 I’m looking to collaborate on making apps, websites and so on..
 - 🤔 I’m looking for help with Machine Learning and DSA.
 - 💬 Ask me about Frontend Web Development!
