@@ -11,4 +11,4 @@
 
 <img src = "https://github-readme-stats.vercel.app/api?username=casafurix&&show_icons=true&title_color=ffffff&icon_color=219F94&text_color=daf7dc&bg_color=1A1A40">
 
-[![Agnibha's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=casafurix&theme=tokyo-night&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/casafurix/github-readme-activity-graph)
+[![Agnibha's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=casafurix&theme=tokyo-night)](https://github.com/casafurix/github-readme-activity-graph)
