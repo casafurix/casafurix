@@ -40,7 +40,7 @@ Applies to Japanese. Also applies to pretty much everything here.
 **Let's make something interesting.** Always down to collaborate on AI apps,
 language tools, or a good weird idea.
 
-[Find me on X](https://x.com/casafurixmusic) ·
+[Find me on X](https://x.com/devcasafurix) ·
 [Explore the repos](https://github.com/casafurix?tab=repositories)
 
 <sub>Handmade mixtape. The animation plays once; here's the [still version](./assets/mixtape.png).</sub>
